@@ -1,7 +1,7 @@
 [![MasterHead](https://media.tenor.com/uTOfbMBFOlIAAAAd/qa-developer.gif")]
 <h1 align="center">Hi 👋, I'm Fatai Ibrahim</h1>
 <h3 align="center">A passionate mobile and web automation quality assurance engineer</h3>
-<img align="right" alt="Coding " width="50%" src="https://media.tenor.com/uTOfbMBFOlIAAAAd/qa-developer.gif">
+<img align="right" alt="Coding " width="50%" src="https://as1.ftcdn.net/v2/jpg/01/96/03/94/1000_F_196039475_6MbF6oSsJJIQdSkS5sBUl52JfvYVSeNP.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=proffatai&label=Profile%20views&color=0e75b6&style=flat" alt="proffatai" /> </p>
 
