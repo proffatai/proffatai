@@ -1,9 +1,9 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=proffatai&label=Profile%20views&color=0e75b6&style=flat" alt="proffatai" style="height:30px" /> </p>
 
-<h1 align="center">Hi 👋, I'm Fatai Ibrahim</h1>
+<h1 align="center">Hi 👋, I'm Fatai Abidodun Ibrahim</h1>
 <h3 align="center">A passionate Mobile and Web Automation Software Quality Assurance Engineer</h3>
-<img align="right" alt="Coding"  style="width: 100vw height: auto display: block" src="https://github.com/proffatai/proffatai/assets/32229780/29a4fcce-bba7-4c57-9c20-4427dcbfa50e">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=proffatai&label=Profile%20views&color=0e75b6&style=flat" alt="proffatai" /> </p>
+<img align="right" alt="Coding"  style="width: 100vw height: auto display: block" src="https://github.com/proffatai/proffatai/assets/32229780/29a4fcce-bba7-4c57-9c20-4427dcbfa50e"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=proffatai" alt="proffatai" /></a> </p>
 
